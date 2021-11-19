@@ -1,0 +1,9 @@
+.cabecalhoPrincipal .container{
+    display: flex; /*display flex deve sempre ser declarado no elemento pai dos elementos que serão manipulados*/
+    align-items: center;
+    justify-content: space-between;
+}
+
+.cabecalhoPrincipal-nav{
+    display: flex;
+}
